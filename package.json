@@ -1,0 +1,7 @@
+{
+  "proxy": "http://localhost:5001",
+
+  "dependencies": {
+    "mongodb": "^7.1.0"
+  }
+}
